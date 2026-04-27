@@ -1,5 +1,4 @@
-	O meu notebooklm, foi criado pensando em fundamentos basicos de 
-rede de computadores.
+	O meu notebooklm, foi criado pensando em fundamentos basicos de rede de computadores.
 
 os links utilizados foram os seguintes
 
